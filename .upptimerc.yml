@@ -10,6 +10,8 @@ sites:
     url: https://app.kaminoo.com/ping.html
   - name: GMC
     url: https://gomastercoach-app.com
+  - name: Pixium Digital
+    url: https://pixiumdigital.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
