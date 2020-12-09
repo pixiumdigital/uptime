@@ -8,7 +8,7 @@ sites:
     url: https://live.boldly.app
   - name: Kaminoo
     url: https://app.kaminoo.com
-  - name: GmC
+  - name: GMC
     url: https://gomastercoach-app.com
 
 status-website:
