@@ -19,8 +19,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://avatars2.githubusercontent.com/u/32156123?s=400&u=724718b5e3546c70b79e0bebe407a9f6873c8b6d&v=4
   name: Pixium Uptime
-  introTitle: "Monitor and status page, powered entirely by GitHub."
-  introMessage: This status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: ""
+  introMessage: Monitor and status page
   navbar:
     - title: Status
       href: https://pixiumdigital.github.io/uptime/
