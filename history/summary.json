@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/live.boldly.app",
     "slug": "boldly",
     "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
+    "uptime": "79.78%",
+    "uptimeDay": "79.78%",
+    "uptimeWeek": "79.78%",
+    "uptimeMonth": "79.78%",
+    "uptimeYear": "79.78%",
     "time": 1236,
     "timeDay": 1236,
     "timeWeek": 1236,
     "timeMonth": 1236,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 4
     }
   },
   {
@@ -25,23 +25,23 @@
     "icon": "https://favicons.githubusercontent.com/app.kaminoo.com",
     "slug": "kaminoo",
     "status": "down",
-    "uptime": "12.49%",
-    "uptimeDay": "12.49%",
-    "uptimeWeek": "12.49%",
-    "uptimeMonth": "12.49%",
-    "uptimeYear": "12.49%",
+    "uptime": "0.66%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.66%",
+    "uptimeMonth": "0.66%",
+    "uptimeYear": "0.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 4
     }
   },
   {
     "name": "GmC",
-    "url": "http://gomastercoach-app.com",
+    "url": "https://gomastercoach-app.com",
     "icon": "https://favicons.githubusercontent.com/gomastercoach-app.com",
     "slug": "gm-c",
     "status": "up",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1887,
-    "timeDay": 1887,
-    "timeWeek": 1887,
-    "timeMonth": 1887,
-    "timeYear": 1887,
+    "time": 1604,
+    "timeDay": 1604,
+    "timeWeek": 1604,
+    "timeMonth": 1604,
+    "timeYear": 1604,
     "dailyMinutesDown": {}
   }
 ]
