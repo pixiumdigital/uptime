@@ -9,7 +9,7 @@ sites:
   - name: Kaminoo
     url: https://app.kaminoo.com
   - name: GmC
-    url: http://gomastercoach-app.com
+    url: https://gomastercoach-app.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
