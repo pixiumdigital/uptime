@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: pixiumdigital # Your GitHub username
+repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Boldly
+    url: https://live.boldly.app/login
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
