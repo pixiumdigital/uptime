@@ -5,15 +5,11 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Boldly
-    url: https://live.boldly.app/login
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    url: https://live.boldly.app
+  - name: Kaminoo
+    url: https://app.kaminoo.com
+  - name: GmC
+    url: http://gomastercoach-app.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
