@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://avatars2.githubusercontent.com/u/32156123?s=400&u=724718b5e3546c70b79e0bebe407a9f6873c8b6d&v=4
   name: Pixium Uptime
   introTitle: ""
-  introMessage: Monitor and status page
+  introMessage: ""
   navbar:
     - title: Status
       href: https://pixiumdigital.github.io/uptime/
