@@ -5,9 +5,9 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Boldly
-    url: https://live.boldly.app
+    url: https://live.boldly.app/ping.html
   - name: Kaminoo
-    url: https://app.kaminoo.com
+    url: https://app.kaminoo.com/ping.html
   - name: GMC
     url: https://gomastercoach-app.com
 
