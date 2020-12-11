@@ -4,6 +4,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Aeqlia Platform
+    url: https://app.aeqlia.com/ping.html
   - name: Boldly
     url: https://live.boldly.app/ping.html
   - name: Kaminoo
