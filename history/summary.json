@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
-    "timeDay": 754,
-    "timeWeek": 716,
+    "timeDay": 773,
+    "timeWeek": 724,
     "timeMonth": 698,
     "timeYear": 727,
     "dailyMinutesDown": {}
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 957,
-    "timeDay": 1048,
-    "timeWeek": 982,
-    "timeMonth": 942,
+    "timeDay": 1011,
+    "timeWeek": 978,
+    "timeMonth": 940,
     "timeYear": 957,
-    "dailyMinutesDown": {
-      "2020-12-09": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kaminoo",
@@ -48,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 865,
-    "timeWeek": 842,
+    "time": 751,
+    "timeDay": 866,
+    "timeWeek": 835,
     "timeMonth": 831,
-    "timeYear": 750,
-    "dailyMinutesDown": {
-      "2020-12-09": 12
-    }
+    "timeYear": 751,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GMC",
@@ -69,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1248,
-    "timeDay": 1309,
-    "timeWeek": 1273,
-    "timeMonth": 1227,
+    "timeDay": 1284,
+    "timeWeek": 1277,
+    "timeMonth": 1220,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2021-08-20": 431,
@@ -90,16 +86,16 @@
     "icon": "https://favicons.githubusercontent.com/pixiumdigital.com",
     "slug": "pixium-digital",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.26%",
-    "time": 1763,
-    "timeDay": 1320,
-    "timeWeek": 1198,
-    "timeMonth": 1254,
-    "timeYear": 1763,
+    "uptimeYear": "92.28%",
+    "time": 1761,
+    "timeDay": 1199,
+    "timeWeek": 1186,
+    "timeMonth": 1253,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2021-08-20": 133,
       "2021-08-19": 1440,
