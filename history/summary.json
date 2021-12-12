@@ -4,9 +4,9 @@
     "url": "https://app.aeqlia.com/ping.html",
     "icon": "https://favicons.githubusercontent.com/app.aeqlia.com",
     "slug": "aeqlia-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 706,
     "timeMonth": 703,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-12": 0
+    }
   },
   {
     "name": "Boldly",
