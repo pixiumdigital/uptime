@@ -25,9 +25,9 @@
     "url": "https://live.boldly.app/ping.html",
     "icon": "https://favicons.githubusercontent.com/live.boldly.app",
     "slug": "boldly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 893,
     "timeMonth": 929,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 0
+    }
   },
   {
     "name": "Kaminoo",
@@ -85,7 +87,7 @@
     "icon": "https://favicons.githubusercontent.com/pixiumdigital.com",
     "slug": "pixium-digital",
     "status": "up",
-    "uptime": "92.95%",
+    "uptime": "92.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
