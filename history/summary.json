@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 722,
-    "timeDay": 759,
-    "timeWeek": 705,
-    "timeMonth": 686,
-    "timeYear": 707,
+    "timeDay": 739,
+    "timeWeek": 716,
+    "timeMonth": 684,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2021-12-13": 459,
       "2021-12-12": 1425
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 956,
-    "timeDay": 1057,
-    "timeWeek": 970,
-    "timeMonth": 944,
+    "timeDay": 1028,
+    "timeWeek": 989,
+    "timeMonth": 946,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2022-01-14": 142
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 757,
-    "timeDay": 914,
-    "timeWeek": 826,
-    "timeMonth": 801,
+    "timeDay": 907,
+    "timeWeek": 845,
+    "timeMonth": 803,
     "timeYear": 760,
     "dailyMinutesDown": {}
   },
@@ -70,14 +70,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1244,
-    "timeDay": 1319,
-    "timeWeek": 1241,
-    "timeMonth": 1209,
-    "timeYear": 1226,
+    "timeDay": 1250,
+    "timeWeek": 1231,
+    "timeMonth": 1208,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2021-08-20": 431,
-      "2021-02-15": 155,
-      "2021-02-04": 22
+      "2021-02-15": 155
     }
   },
   {
@@ -86,16 +85,16 @@
     "icon": "https://favicons.githubusercontent.com/pixiumdigital.com",
     "slug": "pixium-digital",
     "status": "up",
-    "uptime": "93.29%",
+    "uptime": "93.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.28%",
-    "time": 1676,
-    "timeDay": 1340,
-    "timeWeek": 1151,
-    "timeMonth": 1171,
-    "timeYear": 1644,
+    "time": 1674,
+    "timeDay": 1181,
+    "timeWeek": 1160,
+    "timeMonth": 1168,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2021-12-22": 126,
       "2021-08-20": 133,
