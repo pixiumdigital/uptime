@@ -14,6 +14,10 @@ sites:
     url: https://gomastercoach-app.com
   - name: Pixium Digital
     url: https://pixiumdigital.com
+  - name: INDEFI
+    url: https://sofia.indefi.com
+  - name: LMO
+    url: https://app.lastmanout.club
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
